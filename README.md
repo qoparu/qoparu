@@ -2,7 +2,7 @@
 - 👀 I’m interested in design, science, psychology, fitness, scrapbooking and upgrading myself :)
 - 🌱 I’m currently learning basics of front-end developing and piano (So far, the electronic piano) :)
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: 21, Kazakhstan
+- ⚡ Fun fact: 22, Kazakhstan, currently (2024-2025) in Florence, Italy 🇮🇹
 
 <!---
 qoparu/qoparu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
