@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @qoparu, I'm a graphic/web designer with 3 years of experience and I'm working in a wonderful place right now. I decided to study programming to change my field of work :)
+- 👋 Hi, I’m Aru, I'm a graphic/web designer with 3 years of experience. I decided to study programming to change my field of work :)
 - 👀 I’m interested in design, science, psychology, fitness, scrapbooking and upgrading myself :)
 - 🌱 I’m currently learning basics of front-end developing and piano (So far, the electronic piano) :)
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: 22, Kazakhstan, currently (2024-2025) in Florence, Italy 🇮🇹
+- ⚡ Fun fact: too creative, too changeable
+- ⭐ Bachelor's degree: IITU, KAZAKHSTAN
+- ⭐ Master's degree: UNIFI, ITALY (soon ;))
 
 <!---
 qoparu/qoparu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
