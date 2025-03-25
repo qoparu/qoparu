@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Aru, I'm a graphic/web designer with 3 years of experience. I decided to study programming to change my field of work :)
-- 👀 I’m interested in design, science, psychology, fitness, scrapbooking and upgrading myself :)
+- 👋 Hi, I’m Aru, I'm a graphic/web designer with 3 years of experience. 
+- 👀 I have experience in Adobe package (Photoshop, Illutrstator, After Effects, Premiere Pro), Figma, CorelDraw, Blender and Git (basic commands (clone, commit, push, pull, merge), as well as a little knowledge of branching)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: too creative, too changeable
 - ⭐ Bachelor's degree: IITU, KAZAKHSTAN
