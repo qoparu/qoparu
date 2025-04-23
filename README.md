@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aru, I'm a graphic/web designer with 3 years of experience. 
 - 👀 I have experience in Adobe package (Photoshop, Illutrstator, After Effects, Premiere Pro), Figma, CorelDraw, Blender, Cinema4D, HTML/CSS, LaTex, Matlab and Git (basic commands (clone, commit, push, pull, merge), as well as a little knowledge of branching
-- 👾 Programming languages: pascal abc, c++, java, javascript, python, basic sql, basic go
+- 👾 Programming languages: c++, java, javascript, python, basic sql, basic go
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: too creative, too changeable
 - ⭐ Bachelor's degree: IITU, KAZAKHSTAN
