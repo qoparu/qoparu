@@ -5,8 +5,3 @@
 - ⚡ Fun fact: too creative, too changeable
 - ⭐ Bachelor's degree: IITU, KAZAKHSTAN
 - ⭐ Master's degree: UNIFI, ITALY (soon ;))
-
-<!---
-qoparu/qoparu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
