@@ -1,7 +1,13 @@
-- 👋 Hi, I’m Aru, I'm a graphic/web designer with 4+ years of experience and now junior data analyst >:)
-- 👀 I have experience in Adobe package (Photoshop, Illutrstator, After Effects, Premiere Pro), Figma, CorelDraw, Blender, Cinema4D, HTML/CSS, LaTex, Matlab and Git (basic commands (clone, commit, push, pull, merge), as well as a little knowledge of branching
-- 👾 Programming languages: c++, java, javascript, python, basic sql, basic go
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: too creative, too changeable
-- ⭐ Bachelor's degree: IITU, KAZAKHSTAN
-- ⭐ Master's degree: UNIFI, ITALY (soon ;))
+### Hi, I’m Aru 👋
+
+Former graphic/web designer (4+ years), now diving into data and code.  
+Passionate about clean design, smart systems, and learning fast.
+
+- 🧠 Tools: Adobe Suite, Figma, Blender, Cinema4D, HTML/CSS  
+- 🧪 Data & Dev: Python, SQL, Git, LaTeX, basic Go, JavaScript  
+- 🎓 BSc in Engineering Mathematics – IITU (KZ)  
+- 🎓 MSc in Software Science & Technology – UNIFI (IT)  
+- 🌱 Currently exploring: distributed systems, data pipelines, geospatial analysis  
+- ⚡ Fun fact: I shape-shift between creative and logical daily.
+
+Let’s build something bold.
