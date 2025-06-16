@@ -9,5 +9,4 @@ Data Analyst with a background in graphic and web design (4+ years). I'm passion
     - BSc in Engineering Mathematics, IITU (KZ)
 - **Currently Exploring:** Distributed systems, data pipelines, geospatial analysis
 
-Creative by nature, logical by trade. Let's build something impactful.
-∠( ᐛ 」∠)＿
+Creative by nature, logical by trade. Let's build something impactful. ฅ^•ﻌ•^ฅ
