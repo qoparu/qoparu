@@ -1,4 +1,4 @@
-### Hi, I’m Aru ⸜(｡˃ ᵕ ˂ )⸝♡
+### Hi, I’m Aru 👋(｡˃ ᵕ ˂ )⸝♡
 
 Data Analyst with a background in graphic and web design (4+ years). I'm passionate about the intersection of data, code, and clean design.
 
